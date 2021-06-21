@@ -1,3 +1,7 @@
 cv2
 numpy
 pyautogui
+mediapipe
+autopy
+numpy
+pandas
